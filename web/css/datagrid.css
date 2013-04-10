@@ -30,6 +30,10 @@ li{
   font-family : bold;
 }
 
+#double_legend li :hover { 
+background: #DEDEDE;
+  }
+
 #code_legend ul{
   margin-bottom:0px;
   border-left:1px solid #ccc;
